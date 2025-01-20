@@ -3,7 +3,7 @@ Hi, I'm Elif. I'm interested in the web. I am developing a web application using
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/elif-%C3%B6rs-677450296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliifors" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eliifors/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliifors" height="30" width="40" /></a>
 </p>
 
 
