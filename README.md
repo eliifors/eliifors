@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Elif. I'm interested in the Web. I'm trying to improve myself by doing web projects with JavaScript/React. I'm also an university student.<br/>
+Hi, I'm Elif. I'm interested in the Web and Mobile Applications... I am developing a web application using React and a mobile application using React Native. I'm also an university student.<br/>
 
 ## 🌐 Socials:
 <p align="left">
