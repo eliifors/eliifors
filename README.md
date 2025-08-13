@@ -1,7 +1,7 @@
 # Hakkımda
 🎓 Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim.<br/>
-💻 React ile web tabanlı uygulamalar geliştiriyorum.<br/> 
-🔧 Bitirme projem kapsamında Node.js ile backend geliştirme üzerine çalışıyorum.<br/>
+💻 Şu anda Node.js ile backend geliştirme ve API tasarımı üzerine yoğunlaşıyorum.<br/> 
+🌐 React ile web tabanlı uygulamalar geliştirme konusunda deneyimliyim; farklı teknolojilerle projeler üretmeye devam ediyorum.<br/>
 
 
 ## Sosyal Medya
