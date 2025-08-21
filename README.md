@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
 </a>
 <a href="mailto:eliifors@hotmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" />
+     <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Hotmail" width="40" height="40">
 </a>
 </p>
 <br/>
