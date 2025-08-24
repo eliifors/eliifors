@@ -3,6 +3,13 @@
 💻 Şu anda Node.js ile backend geliştirme ve API tasarımı üzerine yoğunlaşıyorum.<br/> 
 🌐 React ile web tabanlı uygulamalar geliştirme konusunda deneyimliyim; farklı teknolojilerle projeler üretmeye devam ediyorum.<br/>
 
+🔍 İlgi Alanlarım:
+• Backend Geliştirme (Node.js)
+• API Tasarımı & Entegrasyon
+• React & Web Geliştirme
+• Web entegrasyonu
+• Kullanıcı odaklı yazılım geliştirme
+
 
 # 🌐 Get In Touch
 <p align="left">
