@@ -4,11 +4,11 @@
 🌐 React ile web tabanlı uygulamalar geliştirme konusunda deneyimliyim; farklı teknolojilerle projeler üretmeye devam ediyorum.<br/>
 
 🔍 İlgi Alanlarım:
-• Backend Geliştirme (Node.js)
-• API Tasarımı & Entegrasyon
-• React & Web Geliştirme
-• Web entegrasyonu
-• Kullanıcı odaklı yazılım geliştirme
+• Backend Geliştirme (Node.js)<br/>
+• API Tasarımı & Entegrasyon<br/>
+• React & Web Geliştirme<br/>
+• Web entegrasyonu<br/>
+• Kullanıcı odaklı yazılım geliştirme<br/>
 
 
 # 🌐 Get In Touch
