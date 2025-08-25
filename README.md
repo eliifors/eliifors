@@ -8,7 +8,6 @@
 • API Tasarımı & Entegrasyon<br/>
 • React & Web Geliştirme<br/>
 • Web entegrasyonu<br/>
-• Kullanıcı odaklı yazılım geliştirme<br/>
 
 
 # 🌐 Get In Touch
