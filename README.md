@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=30&letterSpacing=0.1rem&pause=1000&color=FFE66BFF&background=FFFFFF00&center=true&width=1100&height=80&lines=Backend+Developer)](https://git.io/typing-svg)
+
+
 # About Me:
 🎓 Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim.<br/>
 💻 Şu anda Node.js ile backend geliştirme ve API tasarımı üzerine yoğunlaşıyorum.<br/> 
@@ -8,6 +11,7 @@
 • API Tasarımı & Entegrasyon<br/>
 • React & Web Geliştirme<br/>
 • Web entegrasyonu<br/>
+• Kullanıcı odaklı arayüz tasarımı<br/>
 
 
 # 🌐 Get In Touch
@@ -35,9 +39,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
@@ -77,6 +78,9 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+  </a>
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
