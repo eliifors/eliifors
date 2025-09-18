@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=30&letterSpacing=0.1rem&pause=1000&color=FFE66BFF&background=FFFFFF00&center=true&width=1100&height=80&lines=Backend+Developer)](https://git.io/typing-svg)
 
 
-# About Me:
+# About Me :
 🎓 Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim.<br/>
 💻 Şu anda Node.js ile backend geliştirme ve API tasarımı üzerine yoğunlaşıyorum.<br/> 
 🌐 React ile web tabanlı uygulamalar geliştirme konusunda deneyimliyim; farklı teknolojilerle projeler üretmeye devam ediyorum.<br/>
@@ -14,7 +14,7 @@
 • Kullanıcı odaklı arayüz tasarımı<br/>
 
 
-# 🌐 Get In Touch
+# 🌐 Get In Touch :
 <p align="left">
 <a href="https://www.linkedin.com/in/eliifors/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
@@ -26,7 +26,7 @@
 <br/>
 
 
-# Languages and Tools:
+# Languages and Tools :
 
 
 ### 🎨 Frontend Geliştirme
@@ -78,6 +78,9 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+  </a> 
+  <a href="https://postman.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   </a>
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/>
